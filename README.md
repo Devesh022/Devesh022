@@ -5,7 +5,7 @@
 &nbsp;I'm currently working at Cognizant. I´m live in Pune, India.<br>
 &nbsp;I've had the chance to immerse myself in many different projects, helping to make this world a little better through teamworker.✨
 
- ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;What I'm focusing on 🧑‍💻⚡️
+ ### &nbsp;What I'm focusing on 🧑‍💻⚡️
 
 Currently improving my Docker, Kubernetes, AWS and PowerBI skills. Also I'm learning about Ngnix and Jenkins <br />
 
